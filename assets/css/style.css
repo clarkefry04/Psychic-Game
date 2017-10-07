@@ -1,0 +1,31 @@
+h1{
+	color: purple;
+	font-family: 'Bungee Inline', cursive;
+}
+
+body{
+	background-image: url('http://zonapellucida.net/wp-content/uploads/2015/10/Galaxy-via-mix97-dot-com.jpg');
+	background-repeat:repeat;
+	width: 100%;
+}
+
+p{
+	color: purple;
+	font-family: 'Bungee Inline', cursive;
+}
+
+.container-fluid{
+	background-color: white;
+	opacity: 0.8;
+	height: 250px;
+	width: 400px;
+	position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    margin: auto;
+
+
+}
